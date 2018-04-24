@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Pixi Game</title>
+	<link rel="stylesheet" href="css/style.css">
+	<script src="js/pixi.min.js"></script>
+</head>
+<body>
+	
+	<div class="game-window" id="gameWindow">
+		<div class="game-score" id="gameScore">Score: <span>0</span></div>
+	</div>
+	
+	<div class="score-form hidden" id="scoreForm">
+		<form action="">
+			<p>Game Over</p>
+			<label>
+				Enter your name:
+				<input id="scoreName" type="text" placeholder="Your name" maxlength="15" required>
+			</label>
+			<button id="scoreSaveBtn">Save</button>
+			<button id="scoreCancelBtn">Cancel</button>
+		</form>
+	</div>
+	<script src="js/main.js"></script>
+</body>
+</html>

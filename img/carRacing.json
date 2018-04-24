@@ -1,0 +1,111 @@
+{"frames": {
+
+"car0.png":
+{
+	"frame": {"x":222,"y":157,"w":74,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":170},
+	"sourceSize": {"w":74,"h":170},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car1.png":
+{
+	"frame": {"x":222,"y":0,"w":74,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":150},
+	"sourceSize": {"w":74,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car2.png":
+{
+	"frame": {"x":296,"y":0,"w":74,"h":157},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":157},
+	"sourceSize": {"w":74,"h":157},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car3.png":
+{
+	"frame": {"x":296,"y":157,"w":74,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":170},
+	"sourceSize": {"w":74,"h":170},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car4.png":
+{
+	"frame": {"x":148,"y":0,"w":74,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":150},
+	"sourceSize": {"w":74,"h":150},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car5.png":
+{
+	"frame": {"x":0,"y":0,"w":74,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":142},
+	"sourceSize": {"w":74,"h":142},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"car6.png":
+{
+	"frame": {"x":74,"y":0,"w":74,"h":144},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":144},
+	"sourceSize": {"w":74,"h":144},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"mainCar0.png":
+{
+	"frame": {"x":74,"y":157,"w":74,"h":162},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":162},
+	"sourceSize": {"w":74,"h":162},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"mainCar1.png":
+{
+	"frame": {"x":0,"y":157,"w":74,"h":162},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":162},
+	"sourceSize": {"w":74,"h":162},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"mainCar2.png":
+{
+	"frame": {"x":148,"y":157,"w":74,"h":162},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":162},
+	"sourceSize": {"w":74,"h":162},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"road.png":
+{
+	"frame": {"x":0,"y":327,"w":300,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":115},
+	"sourceSize": {"w":300,"h":115},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "carRacing.png",
+	"format": "RGBA8888",
+	"size": {"w":370,"h":442},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4a40dcc12a54375285fbb17516538e1e:50e0d8cdccb0d08e619d1942d46ddb74:dae473a7a2580da3be5c59daa2974854$"
+}
+}
